@@ -2016,7 +2016,7 @@
             }
           }
         ],
-        "version": "2.3.0",
+        "version": "2.6.0",
         "title": "Main Request Data Flow",
         "description": "",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
@@ -2026,7 +2026,7 @@
     ],
     "diagramTop": 2,
     "reviewer": "Jane Smith",
-    "threatTop": 0
+    "threatTop": 1
   },
-  "version": "2.3.0"
+  "version": "2.6.0"
 }
